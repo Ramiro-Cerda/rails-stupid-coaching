@@ -1,0 +1,40 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+}
+
+h1{
+  color:#184e77;
+  padding:20px;
+}
+
+.container_answer {
+  background-color: #d9ed92;
+  margin: 40px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.p_coach {
+  font-size: 32px;
+  color: #1a759f;
+}
+
+.link_ask {
+  text-decoration:none;
+  color: #168aad;
+}
+
+.input_form {
+  padding: 20px;
+}
+
+input[type="submit"] {
+    padding: 2px 30px;
+    background-color: #34a0a4;
+    color: #ffffff;
+}
